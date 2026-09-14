@@ -1,0 +1,8 @@
+Hello World
+
+Test12345
+
+Muutoksia voi myös perua Gitillä. 
+Tekstin lisääminen tiedostoon tools.txt voidaan perua suorittamalla komento git checkout – tools.txt. 
+Tiedosto on tyhjä komennon suorittamisen jälkeen, koska komento perui muutoksen, jossa tiedostoon lisättiin tekstiä. Päätelmänä komento git checkout – mahdollistaa muutosten perumisen seurattavissa olevista tiedostoista.
+VI test
